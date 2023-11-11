@@ -18,3 +18,9 @@ This repository contains the code and documentation for CS433 Assignment-2. The 
 6. we can also set the congestion_scheme and link loss on command line.
 7. Congestion_scheme CLI code need to be uncommented from Question2 config=b code. I have used loop to generate all congestion scheme data easily.
 8. Example: sudo python3 Question2.py --config=b --congestion_scheme=reno --link_loss=3%
+
+## References:
+1. https://github.com/mininet/mininet/blob/master/examples/linuxrouter.py
+2. https://iperf.fr/
+3. http://mininet.org/walkthrough/
+   
