@@ -16,5 +16,5 @@ This repository contains the code and documentation for CS433 Assignment-2. The 
 4. Running the part2 in config=b will create 4 file which will contains all four congestion scheme we need to show and contain the data regarding time vs data transfer and bandwidth.
 5. Running the part2 in config=c will create 12 file 3hosts and 4 congestion scheme for each of them with the similar data information.
 6. we can also set the congestion_scheme and link loss on command line.
-7. Congestion_scheme is not 
+7. Congestion_scheme CLI code need to be uncommented from Question2 config=b code. I have used loop to generate all congestion scheme data easily.
 8. Example: sudo python3 Question2.py --config=b --congestion_scheme=reno --link_loss=3%
