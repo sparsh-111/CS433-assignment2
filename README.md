@@ -1,6 +1,6 @@
 # CS433 Assignment-2 
 
-This repository contains the code and documentation for CS433 Assignment-2. The assignment involves implementing a Mininet topology, running TCP clients and servers with different congestion control schemes, and analyzing throughput.
+This repository contains the code and documentation for CS433 Assignment-2. The assignment involves implementing a Mininet topology, running iperf clients and servers with different congestion control schemes, and analyzing throughput.
 
 ## Files and Directories:
 
